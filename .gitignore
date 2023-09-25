@@ -18,8 +18,8 @@ gradle-app.setting
 *.pydevproject
 .project
 .metadata
-bin/**
-tmp/**
+bin/
+tmp/
 tmp/**/*
 *.tmp
 *.bak
