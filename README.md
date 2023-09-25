@@ -31,11 +31,11 @@
 ### Запуск приложения
 
 ```bash
-	gradle run
+gradle run
 ```
 
 ### Запуск тестов
 
 ```bash
-	gradle test
+gradle test
 ```
